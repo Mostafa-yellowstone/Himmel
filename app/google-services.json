@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948611600707",
+    "project_id": "brandi-f5dd2",
+    "storage_bucket": "brandi-f5dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948611600707:android:c1d182916dad0b90fa9ff6",
+        "android_client_info": {
+          "package_name": "myst.mostafayellowstone.brandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgg72vehuvzrDvIw78EVMzzL4JGpqO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948611600707:android:c28f521fad345bfdfa9ff6",
+        "android_client_info": {
+          "package_name": "myst.mostafayellowstone.himmel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgg72vehuvzrDvIw78EVMzzL4JGpqO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
